@@ -1,0 +1,14 @@
+body   {
+    background-color: darkred;
+    color: mediumpurple;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-style: groove;
+    border-radius: 10px;
+    border-color: mediumpurple;
+}
