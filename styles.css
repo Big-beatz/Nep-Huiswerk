@@ -11,4 +11,5 @@ header {
     border-style: groove;
     border-radius: 10px;
     border-color: mediumpurple;
+    padding: 16px;
 }
